@@ -5,7 +5,7 @@ DATABASE_NAME = "US_VISA"
 
 COLLECTION_NAME = "visa_data"
 
-MONGODB_URL_KEY = "mongodb+srv://Himanth2004:Himanth2004@cluster0.qlzl0mr.mongodb.net/?appName=Cluster0"
+MONGODB_URL_KEY = "MONGODB_URL"
 
 PIPELINE_NAME: str = "usvisa"
 ARTIFACT_DIR: str = "artifact"
@@ -14,7 +14,7 @@ ARTIFACT_DIR: str = "artifact"
 TRAIN_FILE_NAME: str = "train.csv"
 TEST_FILE_NAME: str = "test.csv"
 
-FILE_NAME: str = "usvisa.csv"
+FILE_NAME: str = "EasyVisa.csv"
 MODEL_FILE_NAME = "model.pkl"
 
 
