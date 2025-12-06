@@ -1,0 +1,9 @@
+# Minimal example configuration for neuro_mf's ModelFactory
+# Customize models, parameter grids and search settings as needed for your project.
+
+
+# Notes:
+# - Adjust modules, classes and param grids to match your desired estimators.
+# - If neuro_mf expects different top-level keys, adapt accordingly. This
+#   minimal file provides the dict structure ModelFactory looks for so it
+#   does not return None when accessed.
